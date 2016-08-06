@@ -1,0 +1,20 @@
+{
+  "name": "demo2",
+  "authors": [
+    "borenwu <borenwu03@163.com>"
+  ],
+  "description": "demo2",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^1.0.26"
+  }
+}
